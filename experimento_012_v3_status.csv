@@ -1,0 +1,7 @@
+detector,estrelas,status
+1,418.0,OK
+2,288.0,OK
+3,409.0,OK
+4,326.0,OK
+5,348.0,OK
+6,,"Consulta Gaia incompleta: ARI: HTTPSConnectionPool(host='gaia.ari.uni-heidelberg.de', port=443): Read timed out. (read timeout=120) | VizieR: HTTPSConnectionPool(host='tapvizier.cds.unistra.fr', port=443): Max retries exceeded with url: /TAPVizieR/tap/sync (Caused by ConnectTimeoutError(<HTTPSConnection(host='tapvizier.cds.unistra.fr', port=443) at 0x248ee8be210>, 'Connection to tapvizier.cds.unistra.fr timed out. (connect timeout=15)')) | ESA-sync: 408 Client Error: 408 for url: https://gea.esac.esa.int/tap-server/tap/sync"
