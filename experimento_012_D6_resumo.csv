@@ -1,0 +1,2 @@
+detector,origem_gaia,n_calibracao,n_teste,offset_ra_discreto,offset_dec_discreto,mediana_bruta_discreto,mediana_corrigida_discreto,rmse_discreto,offset_ra_continuo,offset_dec_continuo,mediana_bruta_continuo,mediana_corrigida_continuo,rmse_continuo
+6,ARI,130,130,0.24803736444493657,0.11103048973478755,2.428310250223619,2.445049167506009,4.703651518373358,0.10594338327564812,0.10698946526253127,2.1560518399166577,2.1593754103051026,4.73633942043074
