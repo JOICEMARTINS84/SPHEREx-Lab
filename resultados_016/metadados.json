@@ -1,0 +1,26 @@
+{
+  "experimento": "016",
+  "exposicao": "2026W13_2A_0238",
+  "modo": "A+B",
+  "sha256_csv": "c71a632e01b95c67b0ae1027278d24df1b70e575bc862d4f59ee6f672678a0c0",
+  "sha256_codigo": "3cdb841b3ec12ccfa32bbe819c4cb1820c037b8707fe22ea7b08168ed3c9d289",
+  "limite_px": 0.499,
+  "buffer_px": 64,
+  "python": "3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]",
+  "numpy": "2.5.5",
+  "pandas": "3.1.1",
+  "matplotlib": "3.11.2",
+  "limites": [
+    "Uma única exposição; amostra selecionada com Gaia; conjunto de teste já explorado.",
+    "Fase ajustada é endógena; fase Gaia depende do WCS e da propagação aproximada 012, não é verdade absoluta.",
+    "Comparações descritivas, sem p-valores nem inferência causal.",
+    "Não altera a ePSF, nem compara interpoladores; isso requer novo ajuste dos pixels."
+  ],
+  "astropy": "8.0.2",
+  "epoca_jyear": 2026.2345081103354,
+  "mjd_avg": 61126.6540873,
+  "url_fits": "https://irsa.ipac.caltech.edu/ibe/data/spherex/dr1/level2/2026W13_2A/l2b-v27-2026-237/6/level2_2026W13_2A_0238_1D6_spx_l2b-v27-2026-237.fits",
+  "sha256_fits": "682a1380468124627784520960a176899b036d0d262422fae8737d840a49fe90",
+  "sha256_gaia": "50156bdd2241aae40af07a6cc2c6d802fe139da5310ce6b371b387ad318076da",
+  "sha256_catalogo_010": "912fd53dd2bdfee1a78b2dd45bf63d1f3ebf9034978cc474479e09a504b11b24"
+}
