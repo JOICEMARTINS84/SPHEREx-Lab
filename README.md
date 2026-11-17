@@ -35,6 +35,5 @@ A execução integral exige o FITS original, que pode ser obtido no IRSA (ou for
 
 - [Matemática & Contexto](https://matematicacontexto.wpcomstaging.com/)
 - [Dados FITS no IRSA](https://irsa.ipac.caltech.edu/ibe/data/spherex/dr1/level2/2026W13_2A/l2b-v27-2026-237/6/level2_2026W13_2A_0238_1D6_spx_l2b-v27-2026-237.fits)
-- [Notebook de visualização](https://colab.research.google.com/drive/1PmGdeceVYhbPEFtjJ-uv10mHdCB2urrS) (permissões públicas ainda não verificadas).
 
 Resultados exploratórios, sem revisão por pares. Não demonstram descoberta de novos objetos nem redução da taxa de falsos positivos.
